@@ -1,6 +1,6 @@
 # IT Intern Challenge 2023
 
-This project is created as challenge given by company Femme Pallete.
+This project was created as challenge given by company Femme Pallete.
 Code was originally created in PyCharm.
 
 ## Installation
